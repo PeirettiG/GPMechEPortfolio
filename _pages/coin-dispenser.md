@@ -34,11 +34,11 @@ gallery:
 
 ## Easily store and dispense quarters for your Coin-Operated Laundry Machines
 
-{% include figure image_path="/assets/images/projects/coin-dispenser/full1.jpg" caption="Full shot of the quarter dispenser" class="align-right" %}
+{% include figure image_path="/assets/images/projects/coin-dispenser/full-1.jpg" caption="Full shot of the quarter dispenser" class="align-right" %}
 
 This quarter dispenser can store your collection of laundry quarters and conveniently hand them to you comfortably with the turn of a knob It features a storage space for up to 36 quarters, window slits to view how many are in storage, and a handy indicator panel to show how many loads of laundry you have left before you need to get more quarters. 
 
-{% include figure image_path="/assets/images/projects/coin-dispenser/full2.jpg" caption="Close-up on the indicator display with raised lettering and slotted viewing window." class="align-right" %}
+{% include figure image_path="/assets/images/projects/coin-dispenser/full-2.jpg" caption="Close-up on the indicator display with raised lettering and slotted viewing window." class="align-right" %}
 
 Here's how it functions:
 Insert multiples of six quarters into the opening at the top of the dispenser.
@@ -63,21 +63,19 @@ I needed a device that could solve my storage, tracking, and dispensing problem.
   - This is a self-imposed restriction. Relying on a microcontroller to spin a dispenser a fixed number of times felt like cheating. Plus, it would require batteries or wall power.
 - All components must be 3D-printable
 
----
+
 
 ## Idea Conception and Creation
 
-I went through different stages of conception. I drew a few ideas in my notebook, and looked for inspiration from other coin dispensers. Many were meant to only dispense one at a time and were spring loaded. They probably work for bank tellers or for returning change, but I wanted a device that dispenses 6 at a time. I also found some coin sorters that can help you count out dollars or multiples of 10 coins. This seemed like a good place to start. My hope was that I could print something similar and that, in my version, quarters can roll down from the top to the bottom. That didn't end up working. The quarters didn't roll down in the way I wanted to. It looks like this tool is meant for easily counting a large stack of quarters. ​
-
 {% include figure image_path="/assets/images/projects/coin-dispenser/comparison.jpg" alt="Comparison of existing quarter dispensers" caption="Existing quarter organizer products on the market" class="align-left" %}
 
-In that case, I returned to the idea generation stage. I had a complete list of requirements, I thought of "what if the quarter groups are stacked on top of each other, and a door or gate can let in only one through the opening at a time?" Then the user could either pull a lever or twist a knob to dispense the quarters. The storage area could have a window or slotted walls that display how full or empty it is. Beside the window, would be an indicator panel to tell the user how many loads of laundry could be done. 
+I went through different stages of conception. I drew a few ideas in my notebook, and looked for inspiration from other coin dispensers. Many were meant to only dispense one at a time and were spring loaded. They probably work for bank tellers or for returning change, but I wanted a device that dispenses 6 at a time. I also found some coin sorters that can help you count out dollars or multiples of 10 coins. This seemed like a good place to start. My hope was that I could print something similar and that, in my version, quarters can roll down from the top to the bottom. That didn't end up working. The quarters didn't roll down in the way I wanted to. It looks like this tool is meant for easily counting a large stack of quarters. ​
 
 {% include figure image_path="/assets/images/projects/coin-dispenser/organizer-tray.jpg" alt="Organizer tray" caption="Common coin organizer tray — functional but no dispensing mechanism" class="align-right"%}
 
-{% include gallery caption="This is a sample gallery with **Markdown support**." %}
+In that case, I returned to the idea generation stage. I had a complete list of requirements, I thought of "what if the quarter groups are stacked on top of each other, and a door or gate can let in only one through the opening at a time?" Then the user could either pull a lever or twist a knob to dispense the quarters. The storage area could have a window or slotted walls that display how full or empty it is. Beside the window, would be an indicator panel to tell the user how many loads of laundry could be done. 
 
----
+{% include gallery class = "full" layout = "half" %}
 
 ## Prototyping the dispenser gate
 
@@ -89,23 +87,9 @@ As the gate spins, an angled surface intersects the mating edges of the bottom t
 
 Now, it came time to make a larger version. This would have the same quarter gate, but I wanted to make it taller to hold the full capacity of quarters. At the same time, I was modeling what the full dispenser would look like and how the indicator panel would sit. A concern of mine was that the combined weight of 24-30 quarters would be too heavy for the shafts of the gate. This could stop the gate from turning because it can't lift the coins. Or, the worst case, is that it would break the gate or split the shell. For that reason, I increased the diameter of the gate shaft, and added a fillet where they meet to increase the strength. 
 ​​
+{% include figure image_path="/assets/images/projects/coin-dispenser/gate-closeup.png" alt="Organizer tray" class="align-right"%}
 
 
-## Core Mechanism
-
-The dispenser uses a rotating semi-circular gate. As the gate spins, an angled surface separates a group of coins, then opens downward to dispense them. A single knob turn drives the full cycle.
-
-{% include figure image_path="/assets/images/projects/coin-dispenser/prototype-1.jpg" alt="Early gate prototype" caption="Early gate mechanism prototype" %}
-
-{% include figure image_path="/assets/images/projects/coin-dispenser/gate-cutaway.png" alt="Gate cutaway view" caption="Gate mechanism — cutaway view showing coin separation" %}
-
-{% include figure image_path="/assets/images/projects/coin-dispenser/prototype-2.jpg" alt="Gate prototype isometric" caption="Gate prototype" %}
-
-{% include figure image_path="/assets/images/projects/coin-dispenser/gate-isometric.png" alt="Gate isometric CAD" caption="Gate mechanism — isometric CAD view" %}
-
-{% include figure image_path="/assets/images/projects/coin-dispenser/gate-closeup.png" alt="Gate closeup" caption="Finished gate — closeup" %}
-
----
 
 ## Knob Design
 
@@ -115,7 +99,7 @@ The Knob was also a custom part. I had an image of the knob I wanted to make, an
 
 {% include figure image_path="/assets/images/projects/coin-dispenser/knob-back.png" alt="Knob back view" caption="Knob — back view showing hexagonal socket" %}
 
----
+
 
 ## DFMA & SolidWorks tips
 
@@ -136,28 +120,6 @@ To connect the Indicator panel to the rest of the body, I took the two rear port
 
 For assembly, I placed the pieces together and secured them with super glue. 
 ​
-
-## Shell & Assembly
-
-The outer shell was split into 5 pieces to fit within the printer build volume (127mm × 180mm × 180mm). Lip & groove features align and secure the pieces.
-
-{% include figure image_path="/assets/images/projects/coin-dispenser/shells-slicer.png" alt="Shell pieces in slicer" caption="Shell pieces oriented in Prusa slicer software" %}
-
-{% include figure image_path="/assets/images/projects/coin-dispenser/notch.png" alt="Assembly notch feature" caption="Lip feature for shell alignment" %}
-
-{% include figure image_path="/assets/images/projects/coin-dispenser/tab.png" alt="Assembly tab feature" caption="Groove feature for shell alignment" %}
-
----
-
-## Indicator Panel
-
-The indicator panel uses raised lettering and a slotted viewing window to display how many loads remain.
-
-{% include figure image_path="/assets/images/projects/coin-dispenser/full-1.jpg" alt="Indicator panel view" caption="Indicator display panel" %}
-
-{% include figure image_path="/assets/images/projects/coin-dispenser/full-2.jpg" alt="Dispenser full view" caption="Quarter dispenser — full view" %}
-
----
 
 ## Manufacturing and Printing in resin
 
