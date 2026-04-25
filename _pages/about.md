@@ -3,7 +3,7 @@ permalink: /about/
 title: "About"
 ---
 
-My name is Gabriel Peiretti and I am a mechanical engineer who graduated from Boston University in 2021. I like to do projects in many areas of interest: including mechanical design and product creation.
+Hello! My name is Gabriel Peiretti, and I am a mechanical engineer who graduated from Boston University in 2021. I like to do projects in many areas of interest: including mechanical design and product creation.
 
 This portfolio showcases a range of engineering projects spanning motor drives, pneumatic systems, 3D printing, product design, and embedded systems. Projects range from coursework at Boston University to personal designs.
 

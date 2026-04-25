@@ -33,8 +33,8 @@ plugins:
 author:
   name   : "Gabriel Peiretti"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Mechanical Engineer, Boston University 2021. I like to do projects in many areas of interest: including mechanical design and product creation."
-  location: "Fort Lauderdale, FL"
+  bio    : "Mechanical Engineer specializing in design and integration of electromechanical components, simulation, & analysis."
+  location: "Watertown, MA"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
