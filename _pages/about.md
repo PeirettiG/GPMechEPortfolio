@@ -3,6 +3,23 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+My name is Gabriel Peiretti and I am a mechanical engineer who graduated from Boston University in 2021. I like to do projects in many areas of interest: including mechanical design and product creation.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+This portfolio showcases a range of engineering projects spanning motor drives, pneumatic systems, 3D printing, product design, and embedded systems. Projects range from coursework at Boston University to personal designs.
+
+## Contact
+
+- **Email:** [gabrielpeiretti@gmail.com](mailto:gabrielpeiretti@gmail.com)
+- **Phone:** 954-294-1857
+- **LinkedIn:** [gabriel-peiretti-52897a18a](https://linkedin.com/in/gabriel-peiretti-52897a18a/)
+
+## Skills
+
+- Mechanical Design & CAD (SolidWorks)
+- 3D Printing (FDM & SLA)
+- Design for Manufacturing and Assembly (DFMA)
+- Prototyping
+- Arduino / Embedded Systems
+- Motor Drives (Stepper & DC)
+- Pneumatic Systems
+- Product Design

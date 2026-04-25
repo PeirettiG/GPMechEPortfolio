@@ -1,9 +1,25 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
   - title: "About"
     url: /about/
+  - title: "Coin Dispenser"
+    url: /coin-dispenser/
+  - title: "Air Motor"
+    url: /air-motor/
+  - title: "ME460 Senior Design"
+    children:
+      - title: "Open-Loop Linear Drive"
+        url: /open-loop-drive/
+      - title: "Closed-Loop DC Motor Drive"
+        url: /closed-loop-drive/
+  - title: "ME360 Product Design"
+    children:
+      - title: "Metrology Gasket"
+        url: /metrology-gasket/
+      - title: "Handheld Hot Wire Stamp"
+        url: /hot-wire-stamp/
+      - title: "Arduino Minecraft Controller"
+        url: /arduino-controller/
+      - title: "2.5D Mechanism: Centrifuge Loader"
+        url: /centrifuge-loader/
+  - title: "Screwdriver Project"
+    url: /screwdriver/
