@@ -32,7 +32,7 @@ plugins:
 
 author:
   name   : "Gabriel Peiretti"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/Headshot.jpg"
   bio    : "Mechanical Engineer specializing in design and integration of electromechanical components, simulation, & analysis."
   location: "Watertown, MA"
   links:

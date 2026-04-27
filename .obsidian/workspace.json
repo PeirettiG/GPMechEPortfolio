@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_pages/moda-printer.md",
+                "file": "_pages/particle-tracing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "moda-printer"
+              "title": "particle-tracing"
             }
           }
         ],
@@ -198,17 +198,41 @@
   },
   "active": "d0f201b43c49682d",
   "lastOpenFiles": [
-    "assets/images/projects/moda/setup-laptop.jpg",
-    "assets/images/projects/moda/setup-overview.jpg",
-    "assets/images/projects/moda/supply-reservoir-fins.jpg",
-    "assets/images/projects/moda/rs485-signal-table.png",
-    "assets/images/projects/moda/rs485-connection-schematic.png",
-    "assets/images/projects/moda/pneumatic-diagram.png",
-    "assets/images/projects/moda/moda-sequence-sketch.png",
-    "assets/images/projects/moda/lois-circuit.png",
-    "assets/images/projects/moda/ink-transfer-chart.png",
-    "assets/images/projects/moda/arduino-shield-schematic-2.png",
-    "assets/images/projects/moda/arduino-shield-schematic.png",
-    "_pages/moda-printer.md"
+    "_pages/ventus.md",
+    "_site/assets/images/projects/ventus/purge-response.png",
+    "assets/images/projects/ventus/purge-response.png",
+    "_site/assets/images/projects/ventus/image23.png",
+    "assets/images/projects/ventus/image23.png",
+    "_pages/particle-tracing.md",
+    "_pages/moda-printer.md",
+    "_site/assets/images/projects/simulation/velocity-mag-r2l.png",
+    "_site/assets/images/projects/simulation/velocity-mag-l2r.png",
+    "_site/assets/images/projects/simulation/streamline.png",
+    "_site/assets/images/projects/simulation/solidification.gif",
+    "_site/assets/images/projects/simulation/puck-mesh.png",
+    "_site/assets/images/projects/simulation/jetting-array.png",
+    "_site/assets/images/projects/simulation",
+    "_site/assets/images/about",
+    "_pages/hot-wire-stamp.md",
+    "_pages/simulation.md",
+    "assets/images/about",
+    "index.html.tmp.10608.1777305514031",
+    "index.html.tmp.10608.1777304799429",
+    "_site/simulation/index.html",
+    "_site/simulation",
+    "_site/particle-tracing/index.html",
+    "_site/particle-tracing",
+    "assets/images/projects/particle-tracing/desktop.ini",
+    "_pages/simulation copy.md",
+    "_pages/ventus copy.md",
+    "_pages/about.md",
+    "_pages/archive/hot-wire-stamp.md",
+    "_pages/archive/centrifuge-loader.md",
+    "_pages/archive/screwdriver.md",
+    "_pages/archive/closed-loop-drive.md",
+    "_pages/archive/open-loop-drive.md",
+    "_pages/archive/arduino-controller.md",
+    "_pages/screwdriver.md",
+    "README.md"
   ]
 }

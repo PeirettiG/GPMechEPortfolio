@@ -1,7 +1,8 @@
 {
   "permissions": {
     "allow": [
-      "WebFetch(domain:gpeiretti.weebly.com)"
+      "WebFetch(domain:gpeiretti.weebly.com)",
+      "Bash(bundle exec *)"
     ]
   }
 }

@@ -2,10 +2,11 @@
 permalink: /air-motor/
 title: "Non-Metallic Air-Driven Motor"
 header:
-  image: /assets/images/projects/air-motor/exploded-view.jpg
+  overlay_image: /assets/images/projects/air-motor/exploded-view.jpg
   caption: "Exploded CAD view of the pneumatic stepper motor"
 toc: true
 toc_label: "Contents"
+excerpt: "Senior Design Capstone project for Boston University and BU NEIDL"
 ---
 
 **Year:** 2021 — Boston University Senior Design Capstone  
