@@ -5,10 +5,10 @@ main:
     url: /moda-printer/
   - title: "Closed-Loop Vacuum Control"
     url: /ventus/
-  - title: "COMSOL Sims"
-    url: /simulation/
   - title: "Particle Tracing"
     url: /particle-tracing/
+  - title: "COMSOL Sims"
+    url: /simulation/
   - title: "Coin Dispenser"
     url: /coin-dispenser/
   - title: "Air Motor"

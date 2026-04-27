@@ -4,7 +4,7 @@ description: >-
   Mechanical engineering portfolio of Gabriel Peiretti, Boston University 2021.
   Projects in product design, mechatronics, 3D printing, and manufacturing.
 url: "https://PeirettiG.github.io"
-baseurl: "/GPMechEPortfolio"
+baseurl: "/Portfolio"
 twitter_username:
 github_username: PeirettiG
 minimal_mistakes_skin: dark
